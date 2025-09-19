@@ -36,7 +36,7 @@ The Lamp stack was deployed on Amason EC2 instance running on Ubuntu
 ---
  * Copy the public IP Address of your instance
  ---
-![Cpying IP address](../1.%20Lampstack/Images/2.png)
+![Cpying IP address](../2.%20Lempstack/images/18.png)
 ---
 
 
